@@ -27,7 +27,5 @@ Current version is 0.1. That means `{api_version}` value is `v0.1`.
 - `DELETE /api/{api_version}/boxes/{box_id}/items/{item_id}`: Delete an item from a box
 - `GET /api/{api_version}/items/search`: Search for items by name or description
 ### Additional endpoints
-- 
-- 
 - `GET /api/{api_version}/users/{user_id}/boxes`: Get all boxes for a specific user (for administrators)
 - `GET /api/{api_version}/users/{user_id}/items`: Get all items for a specific user (for administrators)
